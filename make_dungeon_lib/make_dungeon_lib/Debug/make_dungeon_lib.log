@@ -1,0 +1,11 @@
+﻿2015/02/23 22:38:37 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\Owner\Documents\Visual Studio 2013\Projects\make_dungeon_lib\make_dungeon_lib\make_dungeon_lib.vcxproj" (Build ターゲット)。
+     1>Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"c:\users\owner\documents\visual studio 2013\Projects\test\Debug\make_dungeon_lib.lib" /NOLOGO Debug\make_dungeon.obj
+         Debug\MT.obj
+         make_dungeon_lib.vcxproj -> c:\users\owner\documents\visual studio 2013\Projects\test\Debug\make_dungeon_lib.lib
+     1>プロジェクト "C:\Users\Owner\Documents\Visual Studio 2013\Projects\make_dungeon_lib\make_dungeon_lib\make_dungeon_lib.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.49

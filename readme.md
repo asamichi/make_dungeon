@@ -12,8 +12,8 @@ make_dungeonXみたいに何個も似たソースコードおいてあったけ�
 あと、ライブラリ化はおいおいでいいやと、途中でやめたっぽい。<br>
 ヘッダもだけど、処理自体はいいとしても、今見ると再利用するにも整備が必要そう。<br>
 以下、実行例。<br>
-<img serc="https://github.com/asamichi/make_dungeon/blob/master/screen/1.jpg"><br>
-<img serc="https://github.com/asamichi/make_dungeon/blob/master/screen/2.jpg"><br>
-<img serc="https://github.com/asamichi/make_dungeon/blob/master/screen/3.jpg"><br>
-<img serc="https://github.com/asamichi/make_dungeon/blob/master/screen/4.jpg"><br>
-<img serc="https://github.com/asamichi/make_dungeon/blob/master/screen/5.jpg"><br>
+<img src="https://github.com/asamichi/make_dungeon/blob/master/screen/1.jpg"><br>
+<img src="https://github.com/asamichi/make_dungeon/blob/master/screen/2.jpg"><br>
+<img src="https://github.com/asamichi/make_dungeon/blob/master/screen/3.jpg"><br>
+<img src="https://github.com/asamichi/make_dungeon/blob/master/screen/4.jpg"><br>
+<img src="https://github.com/asamichi/make_dungeon/blob/master/screen/5.jpg"><br>

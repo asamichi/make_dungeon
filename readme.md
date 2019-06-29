@@ -9,3 +9,11 @@ make_dungeonXみたいに何個も似たソースコードおいてあったけ�
 そのせいで今見るとどれが最新かもわかりにくい。<br>
 途中でライブラリ化しようと思いたち、VS環境での開発に切り替えた様子（CPP版）。<br>
 そっちのヘッダを見た感じ、不自然なことに公開する関数側からは、ダンジョンの生成過程の関数が見えてないため、ライブラリを改造しながらの個人開発しか想定出来ていなかった様子。<br>
+あと、ライブラリ化はおいおいでいいやと、途中でやめたっぽい。<br>
+ヘッダもだけど、処理自体はいいとしても、今見ると再利用するにも整備が必要そう。<br>
+以下、実行例。<br>
+<img serc="https://github.com/asamichi/make_dungeon/blob/master/screen/1.jpg"><br>
+<img serc="https://github.com/asamichi/make_dungeon/blob/master/screen/2.jpg"><br>
+<img serc="https://github.com/asamichi/make_dungeon/blob/master/screen/3.jpg"><br>
+<img serc="https://github.com/asamichi/make_dungeon/blob/master/screen/4.jpg"><br>
+<img serc="https://github.com/asamichi/make_dungeon/blob/master/screen/5.jpg"><br>
